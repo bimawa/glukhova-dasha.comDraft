@@ -1,0 +1,19 @@
+
+@font-face {
+  font-weight: 200;
+  font-family: 'custom_20258';
+  font-style: normal;
+  src: url("../../../c-p.rmcdn.net/custom-fonts/font-766a6a95-92be-4ae5-badf-9e4c802bc67f.woff") format('woff');
+}
+@font-face {
+  font-weight: 300;
+  font-family: 'custom_20258';
+  font-style: normal;
+  src: url("../../../c-p.rmcdn.net/custom-fonts/font-9e69b0b0-9a3b-40a5-9cf9-460f899badf3.woff") format('woff');
+}
+@font-face {
+  font-weight: 700;
+  font-family: 'custom_20258';
+  font-style: normal;
+  src: url("../../../c-p.rmcdn.net/custom-fonts/font-6fa2f35f-96bb-4237-b8cd-7cd7b8168d4f.woff") format('woff');
+}
