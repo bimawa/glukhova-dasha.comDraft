@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Upload Pages artifact
-        uses: gitverse://actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@master
         with:
           path: '.'
       - name: Deploy to Pages
-        uses: gitverse://actions/deploy-pages@v1
+        uses: actions/deploy-pages@master
