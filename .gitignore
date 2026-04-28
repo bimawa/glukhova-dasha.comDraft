@@ -1,8 +1,8 @@
 .DS_Store
 __pycache__/
 *.pyc
-build_static.py
-server.py
-server.sh
-api/widgets.json
-api/widgets-combined.json
+.env
+glukhova-dasha/
+i-p.rmcdn.net/
+st-p.rmcdn1.net/
+c-p.rmcdn.net/
