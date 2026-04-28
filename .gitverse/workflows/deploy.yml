@@ -8,8 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install rclone
-        run: |
-          curl -s https://rclone.org/install.sh | sudo bash
+        run: curl -s https://rclone.org/install.sh | sudo bash
       - name: Configure rclone
         run: |
           rclone config create ru-3 s3 \
@@ -19,8 +18,12 @@ jobs:
             secret_access_key ${{ secrets.SELECTEL_SECRET }} \
             region ru-3 \
             endpoint s3.ru-3.storage.selcloud.ru
-      - name: Sync to S3
+      - name: Sync HTML & API
         run: |
           rclone sync . ru-3:storage-data/glukhova-dasha \
             --include "*.html" --include "api/**" --progress
-          rclone sync api/fonts ru-3:storage-data/glukhova-dasha/api/fonts --progress
+      - name: Sync images
+        run: |
+          rclone copy ru-3:storage-data/glukhova-dasha/originals \
+            ru-3:storage-data/glukhova-dasha/originals/5479c8026bbe3ca75cc0a82e/3936815 \
+            --progress
