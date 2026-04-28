@@ -1,1 +1,0 @@
-i-p.rmcdn.net/**/*.webp filter=lfs diff=lfs merge=lfs -text
