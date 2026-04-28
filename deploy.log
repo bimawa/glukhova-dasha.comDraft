@@ -1,0 +1,5 @@
+[2026-04-28 19:24:02] === Деплой: glukhova-dasha ===
+[2026-04-28 19:24:02] 1. Git pull...
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html

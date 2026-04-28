@@ -22,7 +22,10 @@ jobs:
         run: |
           rclone sync . ru-3:storage-data/glukhova-dasha \
             --include "*.html" --include "api/**" --progress
-      - name: Sync images
+      - name: Sync images from repo
+        run: |
+          rclone sync originals ru-3:storage-data/glukhova-dasha/originals --progress
+      - name: Sync images CDN path
         run: |
           rclone copy ru-3:storage-data/glukhova-dasha/originals \
             ru-3:storage-data/glukhova-dasha/originals/5479c8026bbe3ca75cc0a82e/3936815 \
