@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .env
 glukhova-dasha/
+.playwright-mcp/
+s3_upload/
+selectel-*.md
+nic-ru-*.md
