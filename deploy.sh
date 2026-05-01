@@ -18,12 +18,4 @@ else
   log "   → папка originals не найдена"
 fi
 
-log "2. Загрузка thumbs..."
-if [ -d thumbs ]; then
-  rclone sync thumbs "$REMOTE:$BUCKET/thumbs" --progress >> "$LOG_FILE" 2>&1
-  log "   ✓ Thumbs загружены"
-else
-  log "   → папка thumbs не найдена"
-fi
-
 log "=== Готово ==="

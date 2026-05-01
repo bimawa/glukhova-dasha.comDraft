@@ -10,7 +10,6 @@
 HTML + api/  ──git──▶  репозиторий  ──workflow──▶  CDN → S3 (странички)
 
 originals/   ──────────── deploy.sh ────────────▶  S3 (картинки)
-thumbs/
 ```
 
 - **HTML + api/** — коммитятся и пушатся в GitVerse. Workflow автоматически заливает в корень S3-бакета.
@@ -54,7 +53,6 @@ certbot certonly --manual --preferred-challenges dns -d "*.glukhova-dasha.com" -
 ├── *.html              # Страницы сайта (коммитятся)
 ├── api/                # JSON-виджеты (коммитятся)
 ├── originals/          # Исходные изображения (НЕ коммитятся)
-├── thumbs/             # Превью изображений (НЕ коммитятся)
 ├── deploy.sh           # Ручной деплой картинок на S3
 ├── .gitverse/          # GitVerse CI/CD workflow
 └── .certbot/           # Сертификаты Let's Encrypt (локально)
