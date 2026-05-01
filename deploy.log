@@ -763,3 +763,239 @@ Elapsed time:        33.5s
 [2026-05-01 10:50:07] 2. Загрузка thumbs...
 [2026-05-01 10:50:07]    → папка thumbs не найдена
 [2026-05-01 10:50:07] === Готово ===
+[2026-05-01 11:02:12] === Деплой КАРТИНОК на S3 ===
+[2026-05-01 11:02:12] 1. Загрузка originals...
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 8 / 677, 1%, Listed 1354
+Elapsed time:         0.4s
+Checking:
+ *     059e5ed2-f396-49e9-bf9c-5c8ecb1638d0.webp: checking
+ *     070a43e9-a213-45e7-8439-f1904cbea82e.webp: checking
+ *     083a7e71-c3d0-476c-ac45-19ce8f4e3c0c.webp: checking
+ *     084218bc-9230-457b-b0e7-35620ca10229.webp: checking
+ *     088dd51f-1811-4625-9d9e-92faac832df5.webp: checking
+ *     08b10944-5b49-4750-af25-4877e21f7ab9.webp: checking
+ *     08c47f9e-5b7c-4c9f-8ca7-e74cf5be23cb.webp: checking
+ *     08e8f7c4-e1ff-4c79-bc90-a47345474ff2.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                40 / 677, 6%, Listed 1354
+Elapsed time:         0.9s
+Checking:
+ *     12fd6827-675d-4869-b6dc-46579a434e75.webp: checking
+ *     1315bb41-8e64-441e-b9aa-dd0b216008a6.webp: checking
+ *     14af3c91-772a-41f3-929b-fe0b50c51f6a.webp: checking
+ *     14d67aaa-0d70-4200-89b1-1bc4c1e23578.webp: checking
+ *     1670f740-8f97-450a-9f10-3a52e7543252.webp: checking
+ *     16735fc2-3634-4a77-aa5b-b0475162dab6.webp: checking
+ *     16e72d51-4ff7-4b68-8056-e5538cd100ab.webp: checking
+ *     179d73ef-3377-4c82-a66c-caef73b78fa2.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                78 / 677, 12%, Listed 1354
+Elapsed time:         1.5s
+Checking:
+ * image-4fc8b149-25de-4f…8828-10e8cbf8cbf9.webp: checking
+ * image-4fd66924-c513-4b…946f-79d1f914b050.webp: checking
+ * image-5425309f-a6d1-4b…8377-d12f5bac2269.webp: checking
+ * image-569e371c-9d41-4a…b8fe-b5c7940ca710.webp: checking
+ * image-6005b820-346e-4a…9d7f-4f9e47b5621d.webp: checking
+ * image-601b968c-1274-4d…8162-157cedccd631.webp: checking
+ * image-610452e8-d514-47…9d62-5ba8d6ab6ef4.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               112 / 677, 17%, Listed 1354
+Elapsed time:         1.9s
+Checking:
+ * upload-01f4a0c0-e574-4…a72f-5be97011597d.webp: checking
+ * upload-033a8ba4-fcce-4…93d6-c40ec060fa6b.webp: checking
+ * upload-03a47f0f-f44b-4…a1d7-3deedba0a6dd.webp: checking
+ * upload-049ca795-a8cb-4…91b4-223b18825113.webp: checking
+ * upload-05043354-1437-4…99d3-8d87a7e1e461.webp: checking
+ * upload-059e5ed2-f396-4…bf9c-5c8ecb1638d0.webp: checking
+ * upload-070a43e9-a213-4…8439-f1904cbea82e.webp: checking
+ * upload-083a7e71-c3d0-4…ac45-19ce8f4e3c0c.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               144 / 677, 21%, Listed 1354
+Elapsed time:         2.4s
+Checking:
+ * upload-10155cb4-88cc-4…8af8-4688466502c5.webp: checking
+ * upload-102194d7-778c-4…a747-d6955d2c7abe.webp: checking
+ * upload-102ed938-592d-4…9bb7-c4923dbb8136.webp: checking
+ * upload-1032f3a3-d37d-4…8b5b-791dbd654b3f.webp: checking
+ * upload-10ab5fac-609e-4…adb8-4dcc1cb88297.webp: checking
+ * upload-10dbd2bb-efe2-4…8660-ad613a4196ee.webp: checking
+ * upload-11a42b8b-2daa-4…9d9b-7ef3ee758cb1.webp: checking
+ * upload-11b069e7-3534-4…b701-c151564cff63.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               176 / 677, 26%, Listed 1354
+Elapsed time:         2.9s
+Checking:
+ * upload-1a1b2446-1744-4…b073-6204258ab02f.webp: checking
+ * upload-1a95436f-eac8-4…9d2c-ad50ed98123c.webp: checking
+ * upload-1b2d395a-5d20-4…8e78-76deed81d6b6.webp: checking
+ * upload-1b4f0253-7754-4…bd97-641648f0ff2d.webp: checking
+ * upload-1bdfeaa0-5537-4…b7fe-42e16e25f242.webp: checking
+ * upload-1bff8b07-d34b-4…b2b7-7ba20f9d5e34.webp: checking
+ * upload-1c3b44ad-00e7-4…a474-14d2afd5c5cc.webp: checking
+ * upload-1c901f28-51f2-4…a679-0789db4356d5.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               208 / 677, 31%, Listed 1354
+Elapsed time:         3.4s
+Checking:
+ * upload-23945b48-44de-4…bc88-868a7cec7733.webp: checking
+ * upload-244081b1-5b21-4…826c-99a1fe793278.webp: checking
+ * upload-246f1da1-d3ac-4…ad9e-38ad119ac80e.webp: checking
+ * upload-24820eea-4f1a-4…a03d-0303ecf67abe.webp: checking
+ * upload-24c89519-f66b-4…9c2f-cf6ac433f4e1.webp: checking
+ * upload-24d50695-57a4-4…8fc2-5f8012571aba.webp: checking
+ * upload-24d77f64-75d8-4…9c9d-563b4bf5e9b0.webp: checking
+ * upload-251aa730-67a9-4…969e-40e9aa580e6c.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               240 / 677, 35%, Listed 1354
+Elapsed time:         4.0s
+Checking:
+ * upload-2c82b6ce-12fd-4…9374-f32bf6d29550.webp: checking
+ * upload-2c840ea9-770e-4…8e74-5e087aef8889.webp: checking
+ * upload-2cf42343-52b8-4…8fdc-1467ffb1514c.webp: checking
+ * upload-2d99a386-8dfb-4…984e-dea3365642f2.webp: checking
+ * upload-2dc6c972-e96d-4…8567-b3562215c1e1.webp: checking
+ * upload-2dca6755-b49a-4…9413-16f3b501b8ec.webp: checking
+ * upload-2e03abcc-f462-4…8dad-5501b3461938.webp: checking
+ * upload-2e08738f-c7ab-4…8406-2655583f7384.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               272 / 677, 40%, Listed 1354
+Elapsed time:         4.4s
+Checking:
+ * upload-36713cbd-7dd2-4…ba89-197185d56bc1.webp: checking
+ * upload-367b0dc3-3c8a-4…bad0-0643c63d5cb1.webp: checking
+ * upload-36911fa8-4e81-4…b0e5-1a336a5b9368.webp: checking
+ * upload-36b68989-4135-4…bc5d-96bf2d34aff1.webp: checking
+ * upload-36c78444-bfe1-4…b71a-8058a580e4e2.webp: checking
+ * upload-371b12b6-402a-4…8c2f-a10b2a1e4c4d.webp: checking
+ * upload-3737777e-e669-4…868f-c470d75abdc3.webp: checking
+ * upload-37698b21-039f-4…b705-debe59296685.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               304 / 677, 45%, Listed 1354
+Elapsed time:         5.0s
+Checking:
+ * upload-3dfb8ada-b9fe-4…a676-1bcf971b83fe.webp: checking
+ * upload-3e08609f-76fc-4…a0d8-cbcdb3a877e2.webp: checking
+ * upload-3edda6f8-2e45-4…a034-bf4fea3f188e.webp: checking
+ * upload-3f03bdb4-1ea7-4…b9c5-9ecf41877669.webp: checking
+ * upload-3f26817c-25af-4…b2cd-3ac32b2bba76.webp: checking
+ * upload-3f40dfa2-33b4-4…bb0b-b4cfae632545.webp: checking
+ * upload-3fa7e08d-872a-4…b5dd-a97ed2436458.webp: checking
+ * upload-3fef571a-64c5-4…8e08-0990e821484a.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               336 / 677, 50%, Listed 1354
+Elapsed time:         5.4s
+Checking:
+ * upload-49954995-752e-4…9e7f-b1d634138f28.webp: checking
+ * upload-4af5a346-debb-4…8ab9-84af7f6e0804.webp: checking
+ * upload-4b5ab99e-c3c9-4…b8a3-550ec15b24bd.webp: checking
+ * upload-4b6d61ae-6a9d-4…a1f3-8fb891754d8a.webp: checking
+ * upload-4cadeb80-b03c-4…b3b6-a99b0c554f5a.webp: checking
+ * upload-4cb104db-48ef-4…b797-d3cff1b2b085.webp: checking
+ * upload-4cd1c7df-230e-4…9856-c7483f02c885.webp: checking
+ * upload-4cf6510c-5119-4…a661-130e4191abe5.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               368 / 677, 54%, Listed 1354
+Elapsed time:         6.0s
+Checking:
+ * upload-551624ea-43f7-4…9855-e1c2a9c72cbf.webp: checking
+ * upload-5518bbde-9fd3-4…8771-1f01860cedda.webp: checking
+ * upload-552d5592-35c2-4…81a1-de0d9d2d95ff.webp: checking
+ * upload-5616a55b-c6f4-4…9f48-83cc845eb2c5.webp: checking
+ * upload-562fd5f9-db4e-4…b840-314e51ddbe01.webp: checking
+ * upload-56b7720a-e0f1-4…bb56-e1301a4906fb.webp: checking
+ * upload-56e28856-ddcf-4…a9f1-509502455cb1.webp: checking
+ * upload-572bb514-7fed-4…a4f4-d05813a319a0.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               400 / 677, 59%, Listed 1354
+Elapsed time:         6.4s
+Checking:
+ * upload-6140088c-c64a-4…b343-a90c2cef04a3.webp: checking
+ * upload-616f60f7-053b-4…96ae-63d3d94a9a80.webp: checking
+ * upload-61f43648-3d05-4…b8e5-6eff7d0d6053.webp: checking
+ * upload-622a9177-aff9-4…a3a9-bf2b828f78ac.webp: checking
+ * upload-6230226b-8d3d-4…8a6e-86d3410d7503.webp: checking
+ * upload-628e50a0-cd34-4…8937-e9dcec50e72c.webp: checking
+ * upload-633a37bd-e16e-4…ac67-6b2cf89e307b.webp: checking
+ * upload-63570503-325a-4…a1f9-9623d07ec6ae.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               440 / 677, 65%, Listed 1354
+Elapsed time:         6.9s
+Checking:
+ * upload-744c5501-515f-4…85fb-3ab09087d402.webp: checking
+ * upload-744df7b5-7f5d-4…8ccc-0ca180940873.webp: checking
+ * upload-75993101-b097-4…b4cc-9f88732e34cc.webp: checking
+ * upload-762b3819-0c23-4…ad20-41e174407a7a.webp: checking
+ * upload-771443fa-d7ab-4…9b92-b077ff04c385.webp: checking
+ * upload-7736d753-cfe5-4…80af-202ef38c95af.webp: checking
+ * upload-77c5dd26-6290-4…9f69-15c3dd3c3a07.webp: checking
+ * upload-77f292ae-c2cd-4…bf1b-d0c27420f52f.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               472 / 677, 70%, Listed 1354
+Elapsed time:         7.4s
+Checking:
+ * upload-8621afbd-edf0-4…bda1-dcb4e46c4e89.webp: checking
+ * upload-863ba18e-7747-4…9ab4-9e2cd630fac6.webp: checking
+ * upload-86ce3472-818c-4…a764-f6d9710e8f58.webp: checking
+ * upload-88286353-c33c-4…94d3-2a1d51b9cf85.webp: checking
+ * upload-8a00cd83-d800-4…9c6a-43a93a6b2e15.webp: checking
+ * upload-8a1b09c8-cd8c-4…a2ba-c125af39313b.webp: checking
+ * upload-8a4d3673-4db0-4…8257-1a03c5a3d5e4.webp: checking
+ * upload-8acfd4f1-713a-4…b33c-642680a64826.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               504 / 677, 74%, Listed 1354
+Elapsed time:         7.9s
+Checking:
+ * upload-96508125-a44e-4…a0ed-9bbba5a28ce2.webp: checking
+ * upload-978ffb94-005b-4…a484-f9a1aefcd6d0.webp: checking
+ * upload-9809eeb3-dc75-4…9eea-b0fe10475a38.webp: checking
+ * upload-985f6112-4978-4…94e3-de6c9ce81360.webp: checking
+ * upload-990c171f-7fb5-4…9895-2551ae894864.webp: checking
+ * upload-99a73288-6a3a-4…aa83-508b7dc6b5c7.webp: checking
+ * upload-99d16b8c-d656-4…8d00-202cb1e29195.webp: checking
+ * upload-99fdfe4b-1bee-4…92f1-16e15b9cbe64.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               536 / 677, 79%, Listed 1354
+Elapsed time:         8.4s
+Checking:
+ * upload-aa7db012-dd21-4…8b1f-ff1c8a8d98d4.webp: checking
+ * upload-accb4043-34b2-4…897f-3427fc6195c5.webp: checking
+ * upload-adad2b95-7d87-4…b7db-9f957dcd77c0.webp: checking
+ * upload-ae24c2e0-2260-4…8a06-408627a7bd0d.webp: checking
+ * upload-ae92525a-9310-4…8101-de875e85585f.webp: checking
+ * upload-aeb9a09e-aeed-4…9751-58db5520ad8f.webp: checking
+ * upload-af09364b-fd9b-4…b654-d8ed67c359ff.webp: checking
+ * upload-afe64601-7817-4…90ee-6ede0f70c732.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               568 / 677, 84%, Listed 1354
+Elapsed time:         9.0s
+Checking:
+ * upload-bbd3bb9b-7fde-4…9218-6221b161f173.webp: checking
+ * upload-bc055de8-3c46-4…8171-16e35ed96b2a.webp: checking
+ * upload-bc782373-db2d-4…b90a-a9ac07303455.webp: checking
+ * upload-bc8224c7-a56f-4…9e9e-fd65b1703a0e.webp: checking
+ * upload-be1803fa-0d53-4…971b-7af3f7e8a3bf.webp: checking
+ * upload-be2e6f35-50bf-4…a403-821d7af72d8a.webp: checking
+ * upload-be7b3f01-4130-4…8b50-172127b8ae95.webp: checking
+ * upload-c08f6df9-5e32-4…9ff6-426458df1395.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               600 / 677, 89%, Listed 1354
+Elapsed time:         9.4s
+Checking:
+ * upload-d66a343c-722a-4…86c1-0f1f5e4c7a16.webp: checking
+ * upload-d6829a7c-2638-4…b1ce-788a7d6eaa7f.webp: checking
+ * upload-d78f2cb7-6d74-4…bcbb-434693308ece.webp: checking
+ * upload-d7aaaf8a-82c8-4…8456-62f774cf4416.webp: checking
+ * upload-d7e52ddc-ac13-4…91ff-665747fc8250.webp: checking
+ * upload-d7f3e8af-501e-4…8497-77efae967c21.webp: checking
+ * upload-d833cb51-f4cd-4…bd61-832686be0ef1.webp: checking
+ * upload-d8a8210d-4eec-4…9e88-7a4866dee5a0.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               632 / 677, 93%, Listed 1354
+Elapsed time:         9.9s
+Checking:
+ * upload-e864cec1-f0d2-4…a041-9bf409e10b27.webp: checking
+ * upload-e999d02d-57db-4…a9f6-6d95e9edb510.webp: checking
+ * upload-ea027be2-01a9-4…813e-fd00daf9be9d.webp: checking
+ * upload-ea5b913d-d661-4…8e0c-66168c182df0.webp: checking
+ * upload-eb0e5699-66aa-4…8770-c651fbbe7294.webp: checking
+ * upload-eb6dd0be-1202-4…9d1f-d44a5f9e7679.webp: checking
+ * upload-eb7df3f0-a6f0-4…a5f0-4ad6ec20da8c.webp: checking
+ * upload-ec35a1c3-702e-4…ba37-ca0d3fbcca08.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               666 / 677, 98%, Listed 1354
+Elapsed time:        10.5s
+Checking:
+ * upload-fa52ec77-d4af-4…b5fe-885134a6b5e0.webp: checking
+ * upload-fa5673aa-ba10-4…b446-469f6afe8da6.webp: checking
+ * upload-fa6487f3-26b5-4…93d0-4b9d02b76190.webp: checking
+ * upload-fac24bb7-b1db-4…a691-a3c45c30679f.webp: checking
+ * upload-fb1724f6-e02b-4…9c8e-1f103b5aeb4e.webp: checking
+ * upload-fbdfe367-e77a-4…8248-65e97a1f1f47.webp: checking
+ * upload-fdcb0691-4916-4…959c-773e6a12046b.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               677 / 677, 100%, Listed 1354
+Elapsed time:        10.7s
+[2026-05-01 11:02:24]    ✓ Originals загружены
+[2026-05-01 11:02:24] === Готово ===

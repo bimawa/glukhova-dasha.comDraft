@@ -18,4 +18,20 @@ else
   log "   → папка originals не найдена"
 fi
 
+log "2. Загрузка modules..."
+if [ -d modules ]; then
+  rclone sync modules "$REMOTE:$BUCKET/modules" --progress >> "$LOG_FILE" 2>&1
+  log "   ✓ Modules загружены"
+else
+  log "   → папка modules не найдена"
+fi
+
+log "3. Загрузка fonts..."
+if [ -d fonts ]; then
+  rclone sync fonts "$REMOTE:$BUCKET/fonts" --progress >> "$LOG_FILE" 2>&1
+  log "   ✓ Fonts загружены"
+else
+  log "   → папка fonts не найдена"
+fi
+
 log "=== Готово ==="

@@ -11,3 +11,5 @@ originals/
 thumbs/
 .certbot/
 deploy.log
+modules/
+fonts/
