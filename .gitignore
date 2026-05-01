@@ -11,3 +11,6 @@ originals/
 thumbs/
 .certbot/
 deploy.log
+# Original images (keep for reconversion)
+photos/*.jpg
+photos/*.png
