@@ -10,12 +10,12 @@ log() {
 
 log "=== Деплой КАРТИНОК на S3 ==="
 
-log "1. Загрузка originals..."
-if [ -d originals ]; then
-  rclone sync originals "$REMOTE:$BUCKET/originals" --progress >> "$LOG_FILE" 2>&1
-  log "   ✓ Originals загружены"
+log "1. Загрузка картинок (o/)..."
+if [ -d o ]; then
+  rclone sync o "$REMOTE:$BUCKET/o" --progress >> "$LOG_FILE" 2>&1
+  log "   ✓ Картинки загружены"
 else
-  log "   → папка originals не найдена"
+  log "   → папка o не найдена"
 fi
 
 log "2. Загрузка modules..."

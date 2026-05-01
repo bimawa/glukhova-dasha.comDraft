@@ -999,3 +999,732 @@ Checks:               677 / 677, 100%, Listed 1354
 Elapsed time:        10.7s
 [2026-05-01 11:02:24]    ✓ Originals загружены
 [2026-05-01 11:02:24] === Готово ===
+[2026-05-01 11:22:48] === Деплой КАРТИНОК на S3 ===
+[2026-05-01 11:22:48] 1. Загрузка originals...
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 8 / 677, 1%, Listed 1354
+Elapsed time:         0.4s
+Checking:
+ *     059e5ed2-f396-49e9-bf9c-5c8ecb1638d0.webp: checking
+ *     070a43e9-a213-45e7-8439-f1904cbea82e.webp: checking
+ *     083a7e71-c3d0-476c-ac45-19ce8f4e3c0c.webp: checking
+ *     084218bc-9230-457b-b0e7-35620ca10229.webp: checking
+ *     088dd51f-1811-4625-9d9e-92faac832df5.webp: checking
+ *     08b10944-5b49-4750-af25-4877e21f7ab9.webp: checking
+ *     08c47f9e-5b7c-4c9f-8ca7-e74cf5be23cb.webp: checking
+ *     08e8f7c4-e1ff-4c79-bc90-a47345474ff2.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                40 / 677, 6%, Listed 1354
+Elapsed time:         1.0s
+Checking:
+ *     12fd6827-675d-4869-b6dc-46579a434e75.webp: checking
+ *     1315bb41-8e64-441e-b9aa-dd0b216008a6.webp: checking
+ *     14af3c91-772a-41f3-929b-fe0b50c51f6a.webp: checking
+ *     14d67aaa-0d70-4200-89b1-1bc4c1e23578.webp: checking
+ *     1670f740-8f97-450a-9f10-3a52e7543252.webp: checking
+ *     16735fc2-3634-4a77-aa5b-b0475162dab6.webp: checking
+ *     16e72d51-4ff7-4b68-8056-e5538cd100ab.webp: checking
+ *     179d73ef-3377-4c82-a66c-caef73b78fa2.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                72 / 677, 11%, Listed 1354
+Elapsed time:         1.5s
+Checking:
+ * image-2769ed03-7689-4d…b20f-4e0b6791706e.webp: checking
+ * image-370a5cfb-cbb4-4f…8328-651963552f19.webp: checking
+ * image-388f4097-bc5b-48…bdcf-4f1c040e039b.webp: checking
+ * image-48304c2e-c75d-4b…b873-c17decddb342.webp: checking
+ * image-4af08740-e489-42…aece-102752a43c82.webp: checking
+ * image-4d9616c7-a250-46…a1c4-1454fd36f6bc.webp: checking
+ * image-4fc8b149-25de-4f…8828-10e8cbf8cbf9.webp: checking
+ * image-4fd66924-c513-4b…946f-79d1f914b050.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               104 / 677, 15%, Listed 1354
+Elapsed time:         2.0s
+Checking:
+ * image-f01e4831-6f61-49…bb0d-86b783f99a13.webp: checking
+ * image-f0aab5a8-c17f-49…9b3c-f40efc9125f4.webp: checking
+ * image-f29fe4a0-6468-49…bc68-afabd33bf2e4.webp: checking
+ * image-f2f12bba-62a1-4c…badf-e4edd1bd791c.webp: checking
+ * image-fe5fc7a5-0dcf-48…a17a-3bf17318b981.webp: checking
+ * upload-0011f516-020e-4…ae34-e02b8ce43051.webp: checking
+ * upload-006d3989-f03e-4…ae56-9775c2043dc6.webp: checking
+ * upload-00849753-d708-4…bed5-bb3e79a806c4.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               136 / 677, 20%, Listed 1354
+Elapsed time:         2.5s
+Checking:
+ * upload-0dfe2e9a-7383-4…b401-be66e6b7fdc3.webp: checking
+ * upload-0ea52b8b-dac7-4…a6b5-068d74a0da59.webp: checking
+ * upload-0eec8daa-8c2a-4…bb74-e7339d679ea4.webp: checking
+ * upload-0f030792-b571-4…bd5e-33b1912c3512.webp: checking
+ * upload-0f1409f8-0539-4…8acd-a86f78550435.webp: checking
+ * upload-0f783cb7-a896-4…9f92-396ff443e60e.webp: checking
+ * upload-0f916e59-14b5-4…b5e6-f83cc36f638b.webp: checking
+ * upload-100a039d-8768-4…8192-4df2c6467417.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               168 / 677, 25%, Listed 1354
+Elapsed time:         3.0s
+Checking:
+ * upload-18fae742-7b4e-4…b8da-746969474579.webp: checking
+ * upload-18fcbcb5-0d9f-4…9d25-3f55427ec4cc.webp: checking
+ * upload-195e56fe-a8ed-4…82c7-b885b6e22352.webp: checking
+ * upload-1965c3a5-02ea-4…9dda-ca24d8d1a9e8.webp: checking
+ * upload-19781469-c9e4-4…8d82-bb1cfec6d1be.webp: checking
+ * upload-19ad476b-d3e6-4…bf73-0c2ac7a272fe.webp: checking
+ * upload-19daf2d2-2463-4…bce8-dbfd0b6b4a66.webp: checking
+ * upload-19ee28f0-0c95-4…8216-1bf3d39d652d.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               200 / 677, 30%, Listed 1354
+Elapsed time:         3.5s
+Checking:
+ * upload-21099e68-a75d-4…a9dc-9688284d9d38.webp: checking
+ * upload-21ceff4b-bf28-4…920d-0f44f99b47b9.webp: checking
+ * upload-21e4ec62-32f3-4…9417-7030a227908f.webp: checking
+ * upload-22599d18-a437-4…a1e2-426fe94ba9a6.webp: checking
+ * upload-2346273a-7e0c-4…9060-95392a1920fd.webp: checking
+ * upload-237e221d-8116-4…a519-27929df20edd.webp: checking
+ * upload-237e88a6-a7e3-4…adf7-3ffd54ff951e.webp: checking
+ * upload-2382c76d-28ab-4…ba55-9874e3a3a9ee.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               232 / 677, 34%, Listed 1354
+Elapsed time:         4.0s
+Checking:
+ * upload-2a8e8e14-76ef-4…ad20-4d7d24ed0aae.webp: checking
+ * upload-2acf8844-cc73-4…89e7-135ee096a0eb.webp: checking
+ * upload-2afe206f-2361-4…b4b0-e70d9a1ce9a4.webp: checking
+ * upload-2b1a0387-7663-4…9dfd-09f33e200e96.webp: checking
+ * upload-2b9dc01c-7812-4…9f6e-22e4f1cf5939.webp: checking
+ * upload-2bd351ae-1c59-4…b518-0ef98702c886.webp: checking
+ * upload-2c4dae0f-6be8-4…ac55-52da6a78b809.webp: checking
+ * upload-2c690d2b-c51a-4…a9a4-57e99b684732.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               264 / 677, 39%, Listed 1354
+Elapsed time:         4.5s
+Checking:
+ * upload-34d04d1a-52ca-4…bebf-192e7bb8135c.webp: checking
+ * upload-35306999-74e9-4…88ef-a78a03345c53.webp: checking
+ * upload-354641fc-88d5-4…8443-0a3c52fa8a79.webp: checking
+ * upload-3577b1a0-8481-4…b340-49997d0f192a.webp: checking
+ * upload-35a79a6d-c0a0-4…a84b-00b3309fc25f.webp: checking
+ * upload-35ca4eed-8851-4…a47b-1f377398f863.webp: checking
+ * upload-3623ae25-1166-4…9598-943fc4326984.webp: checking
+ * upload-3658b6c7-94bb-4…9a9f-38ef9360648e.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               298 / 677, 44%, Listed 1354
+Elapsed time:         5.0s
+Checking:
+ * upload-3d22f7f4-4eee-4…8998-4e453684d94e.webp: checking
+ * upload-3d4948ef-b385-4…9324-7e55684b9e0b.webp: checking
+ * upload-3d6fecc0-9635-4…9494-d67efdd30e43.webp: checking
+ * upload-3db638a2-890a-4…94f8-295bdd437d19.webp: checking
+ * upload-3dd74c6c-4650-4…92e2-22513d995177.webp: checking
+ * upload-3ddfe330-09c8-4…aa8d-34bdc4c34a71.webp: checking
+ * upload-3dfb8ada-b9fe-4…a676-1bcf971b83fe.webp: checking
+ * upload-3e08609f-76fc-4…a0d8-cbcdb3a877e2.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               332 / 677, 49%, Listed 1354
+Elapsed time:         5.4s
+Checking:
+ * upload-491509eb-3cd7-4…b4c8-6a25ca6ef0ac.webp: checking
+ * upload-4926f5c0-8df2-4…9988-cc447936fbf5.webp: checking
+ * upload-49673e6a-f1c1-4…8bbf-827529e04fc7.webp: checking
+ * upload-496f5a91-7778-4…b164-0868f568c406.webp: checking
+ * upload-49954995-752e-4…9e7f-b1d634138f28.webp: checking
+ * upload-4af5a346-debb-4…8ab9-84af7f6e0804.webp: checking
+ * upload-4b5ab99e-c3c9-4…b8a3-550ec15b24bd.webp: checking
+ * upload-4b6d61ae-6a9d-4…a1f3-8fb891754d8a.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               363 / 677, 54%, Listed 1354
+Elapsed time:         6.0s
+Checking:
+ * upload-5401b6e9-956a-4…ad14-528fde33d729.webp: checking
+ * upload-5407a2d6-2a76-4…b7b7-b24e1ab057b3.webp: checking
+ * upload-5426f68d-fefb-4…a5ad-4e068e95498b.webp: checking
+ * upload-54355941-c9c4-4…abd2-925acfe3eb19.webp: checking
+ * upload-54c8d366-fcaa-4…beb8-aa9d7634b447.webp: checking
+ * upload-551624ea-43f7-4…9855-e1c2a9c72cbf.webp: checking
+ * upload-5518bbde-9fd3-4…8771-1f01860cedda.webp: checking
+ * upload-552d5592-35c2-4…81a1-de0d9d2d95ff.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               395 / 677, 58%, Listed 1354
+Elapsed time:         6.5s
+Checking:
+ * upload-5eeaa8f5-7dc8-4…a55e-ae3052c5d974.webp: checking
+ * upload-5f13a0c9-77b9-4…9acd-902ba5593a54.webp: checking
+ * upload-5fcf7e1c-eb7f-4…801e-1caee9a0d4c5.webp: checking
+ * upload-60603921-e0c1-4…ab4e-3d103bf321ab.webp: checking
+ * upload-606cf88c-2265-4…adda-e4ff440b1562.webp: checking
+ * upload-6140088c-c64a-4…b343-a90c2cef04a3.webp: checking
+ * upload-616f60f7-053b-4…96ae-63d3d94a9a80.webp: checking
+ * upload-61f43648-3d05-4…b8e5-6eff7d0d6053.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               428 / 677, 63%, Listed 1354
+Elapsed time:         6.9s
+Checking:
+ * upload-6a0e766a-9a09-4…a213-457c325418e6.webp: checking
+ * upload-6a8c35fa-82f2-4…8220-4a13112b9f8a.webp: checking
+ * upload-6b69f25a-7cea-4…b806-ef18e0312cf5.webp: checking
+ * upload-6bbe4582-ffd5-4…a850-17e0284b9758.webp: checking
+ * upload-6d95c602-5c91-4…b570-2da1940f3c60.webp: checking
+ * upload-6f8eaefc-0a1b-4…b95d-1ea2d3b4fda4.webp: checking
+ * upload-6f997105-028e-4…9576-2f4a4c8838c4.webp: checking
+ * upload-6ff00d67-445f-4…a87e-350d76c6afad.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               459 / 677, 68%, Listed 1354
+Elapsed time:         7.5s
+Checking:
+ * upload-7f0c3444-b4d7-4…abde-a07df92950b8.webp: checking
+ * upload-80b508d0-7306-4…b302-6bec06fac678.webp: checking
+ * upload-81531e73-eb13-4…be58-acb021faf3af.webp: checking
+ * upload-81ee7bc1-81d1-4…b785-8ef745820524.webp: checking
+ * upload-820a763d-24d2-4…aff7-c41cf9cce901.webp: checking
+ * upload-823a03ce-b37a-4…8bb1-6f560ecf2ef9.webp: checking
+ * upload-8240f5a3-fc1b-4…a5d1-7d5c2d6310ed.webp: checking
+ * upload-82b4c033-6b52-4…a321-0b66b8077e8f.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               493 / 677, 73%, Listed 1354
+Elapsed time:         8.0s
+Checking:
+ * upload-91aa4c68-b0f9-4…a5ce-4b26a3a03d64.webp: checking
+ * upload-91df75d2-b707-4…8c5f-6d7a83792e92.webp: checking
+ * upload-91e9c992-897d-4…adaa-521bb69a0aaf.webp: checking
+ * upload-91f523a8-8e1f-4…bf77-16ec37cdfd1e.webp: checking
+ * upload-920f255d-1f3d-4…9b3e-1a090281eacf.webp: checking
+ * upload-92b4dd7a-3d55-4…9eae-0b3c4161bd0e.webp: checking
+ * upload-92e0812f-1bac-4…a2f2-bd414eb56e4d.webp: checking
+ * upload-9308db58-9ae9-4…b16f-38e2be88d41a.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               523 / 677, 77%, Listed 1354
+Elapsed time:         8.5s
+Checking:
+ * upload-a16b4743-b194-4…88f8-a50ed75d44fb.webp: checking
+ * upload-a277b00e-e7a0-4…991f-d93ec1105e72.webp: checking
+ * upload-a3c82ff7-a1b2-4…aa90-91c658e88821.webp: checking
+ * upload-a3f36ffd-9608-4…b8e1-c4a5568ba61a.webp: checking
+ * upload-a3f5ee45-ff38-4…8324-02c1c5fb2bcc.webp: checking
+ * upload-a4e9c904-318f-4…b3e5-ad8db61c513d.webp: checking
+ * upload-a63ebc0c-7d32-4…91a7-9587f1c610c0.webp: checking
+ * upload-a6c2136f-1eb2-4…b856-a0d3baebb084.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               555 / 677, 82%, Listed 1354
+Elapsed time:         9.0s
+Checking:
+ * upload-b7822c18-71dd-4…9450-56a8db11e8cd.webp: checking
+ * upload-b82a9dfe-348c-4…aec1-a8e58cc8844f.webp: checking
+ * upload-b846ba40-21ed-4…996d-b82472da57ae.webp: checking
+ * upload-b8f2ca00-da63-4…9dad-3d96a2365488.webp: checking
+ * upload-b9515fd9-4d06-4…8122-ae32bc8fedce.webp: checking
+ * upload-b9895507-3500-4…ab7c-f9d9cd2b5ae4.webp: checking
+ * upload-b99f2ad8-ead2-4…abe6-625b75cd7d63.webp: checking
+ * upload-b9d4283e-579b-4…b16f-dba0dee464be.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               587 / 677, 87%, Listed 1354
+Elapsed time:         9.5s
+Checking:
+ * upload-c8fe3456-14c5-4…aaf9-8e8d9afd2d86.webp: checking
+ * upload-c9d5bc0e-9303-4…9d00-b88ededa8e98.webp: checking
+ * upload-ca005f59-751d-4…96b3-5227562410e2.webp: checking
+ * upload-cc2e33d8-7266-4…8181-0c4cb8c0189a.webp: checking
+ * upload-cc5d2c4a-4b46-4…8cf4-816d8738c4cf.webp: checking
+ * upload-cd3d8337-f391-4…b1bc-f5f5a91d9fe4.webp: checking
+ * upload-ce634fb8-9a13-4…9fc7-36e2ec4c5637.webp: checking
+ * upload-cf10c58b-5ad6-4…9149-48c14040647d.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               619 / 677, 91%, Listed 1354
+Elapsed time:         9.9s
+Checking:
+ * upload-e334ac57-a304-4…ad26-9cf17a475903.webp: checking
+ * upload-e436478b-3c09-4…8f24-f4f02ffebc0b.webp: checking
+ * upload-e50559f5-3ce5-4…8136-986474c5f3db.webp: checking
+ * upload-e55f8041-7c48-4…8de6-1f2f52dc52aa.webp: checking
+ * upload-e570c35c-ea45-4…a1f6-6284685cd41d.webp: checking
+ * upload-e5dd239f-688a-4…a4ae-e283041fbe9a.webp: checking
+ * upload-e62bc251-3b52-4…8298-ea6385db8a37.webp: checking
+ * upload-e71e166e-d0ef-4…ab2c-3f87fc87ae3c.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               653 / 677, 96%, Listed 1354
+Elapsed time:        10.4s
+Checking:
+ * upload-f30ee9f5-2ca7-4…9e3c-803fc23cd3ae.webp: checking
+ * upload-f3584239-765c-4…91ed-626780798038.webp: checking
+ * upload-f376805e-188d-4…bbbd-2c79def9ac65.webp: checking
+ * upload-f4682fb6-c5a1-4…9d90-140a572dc98f.webp: checking
+ * upload-f476b33c-8d5d-4…a2c9-4a8bfc21d935.webp: checking
+ * upload-f56e4710-9adc-4…9f13-5d6382628b8d.webp: checking
+ * upload-f571bb5b-04b2-4…8637-59e68878a3ef.webp: checking
+ * upload-f5775f14-9d35-4…8fbc-6478f0719bcf.webp: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               677 / 677, 100%, Listed 1354
+Elapsed time:        10.8s
+[2026-05-01 11:23:00]    ✓ Originals загружены
+[2026-05-01 11:23:00] 2. Загрузка modules...
+Transferred:   	  129.120 KiB / 5.573 MiB, 2%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 279
+Transferred:            4 / 276, 1%
+Elapsed time:         0.4s
+Transferring:
+ *                 161b6d7b/dist/bg-JAKY5MEK.jpg:100% /76.617Ki, 0/s, -
+ *           161b6d7b/dist/bg-phone-LJ4UEOOJ.jpg:100% /12.928Ki, 0/s, -
+ *           161b6d7b/dist/browsers-AONRMDST.png:100% /7.517Ki, 0/s, -
+ *        161b6d7b/dist/browsers@2x-S763L4NE.png:100% /16.527Ki, 0/s, -Transferred:   	  309.456 KiB / 5.573 MiB, 5%, 309.447 KiB/s, ETA 17s
+Checks:                 0 / 0, -, Listed 279
+Transferred:            8 / 276, 3%
+Elapsed time:         1.0s
+Transferring:
+ *            161b6d7b/dist/confirm-I2BDZZ6H.png:100% /49.831Ki, 0/s, -
+ *         161b6d7b/dist/confirm@2x-2ENCTW4F.png:100% /129.489Ki, 0/s, -
+ *       161b6d7b/dist/dots_divider-2GBAXOS6.svg:100% /408, 0/s, -
+ *        161b6d7b/dist/error-image-XVIG5XEP.png:100% /632, 0/s, -Transferred:   	  350.038 KiB / 5.573 MiB, 6%, 309.447 KiB/s, ETA 17s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           17 / 276, 6%
+Elapsed time:         1.4s
+Transferring:
+ *          161b6d7b/dist/lock-icon-J4GUSCBM.svg:100% /470, 0/s, -
+ *               161b6d7b/dist/logo-H6WDD5HQ.png:100% /1.332Ki, 0/s, -
+ *               161b6d7b/dist/logo-KIUWUH4S.png:100% /1.180Ki, 0/s, -
+ *               161b6d7b/dist/logo-MHMMYDJW.png:100% /1.588Ki, 0/s, -Transferred:   	  368.697 KiB / 5.573 MiB, 6%, 309.447 KiB/s, ETA 17s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           25 / 276, 9%
+Elapsed time:         2.0s
+Transferring:
+ *            161b6d7b/dist/logo@2x-JCREERBW.png:100% /2.237Ki, 0/s, -
+ *            161b6d7b/dist/logo@2x-W62XM6SI.png:100% /3.082Ki, 0/s, -
+ *            161b6d7b/dist/logo@2x-XYBZMTZ5.png:100% /2.512Ki, 0/s, -
+ *          161b6d7b/dist/made-with-ETKDTPC5.svg:100% /3.689Ki, 0/s, -Transferred:   	  374.474 KiB / 5.573 MiB, 7%, 184.345 KiB/s, ETA 28s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           33 / 276, 12%
+Elapsed time:         2.4s
+Transferring:
+ *        161b6d7b/dist/pic-desktop-5FRVBMRI.png:100% /404, 0/s, -
+ *     161b6d7b/dist/pic-desktop@2x-F7YNMAA5.png:100% /824, 0/s, -
+ *        161b6d7b/dist/pic-upgrade-MXU353H5.svg:100% /2.933Ki, 0/s, -
+ *               161b6d7b/dist/plus-CGAPWGGH.png:100% /102, 0/s, -Transferred:   	  384.317 KiB / 5.573 MiB, 7%, 184.345 KiB/s, ETA 28s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           41 / 276, 15%
+Elapsed time:         2.9s
+Transferring:
+ *    161b6d7b/dist/powered-logo@2x-O4ZAPBZ4.png:100% /1.481Ki, 0/s, -
+ *      161b6d7b/dist/rmalttext-tip-YDOS5G36.svg:100% /289, 0/s, -
+ *             161b6d7b/dist/shadow-7QTMMRYH.png:100% /1.079Ki, 0/s, -
+ *             161b6d7b/dist/sprite-25E3AVGT.png:100% /2.685Ki, 0/s, -Transferred:   	  617.411 KiB / 5.573 MiB, 11%, 128.103 KiB/s, ETA 39s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           49 / 276, 18%
+Elapsed time:         3.4s
+Transferring:
+ *                      161b6d7b/dist/viewer.css:100% /179.664Ki, 0/s, -
+ *                       161b6d7b/dist/viewer.js:100% /11.672Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-22PVFZJQ.js:100% /27.851Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-2AU5FODJ.js:100% /901, 0/s, -Transferred:   	  652.934 KiB / 5.573 MiB, 11%, 163.229 KiB/s, ETA 30s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           56 / 276, 20%
+Elapsed time:         4.0s
+Transferring:
+ *                 161b6d7b/dist/c/c-3BJT7LGI.js:100% /2.233Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-2THZQ3YL.js:100% /4.036Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-3CSQRZF4.js:100% /5.542Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-3EFWE25P.js:100% /837, 0/s, -Transferred:   	  758.395 KiB / 5.573 MiB, 13%, 163.229 KiB/s, ETA 30s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           64 / 276, 23%
+Elapsed time:         4.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-4CG6325L.js:100% /539, 0/s, -
+ *                 161b6d7b/dist/c/c-4CJGMS4U.js:100% /379, 0/s, -
+ *                 161b6d7b/dist/c/c-4IUTD2JI.js:100% /43.408Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-4PL46RZV.js:100% /31.193Ki, 0/s, -Transferred:   	  852.421 KiB / 5.573 MiB, 15%, 163.229 KiB/s, ETA 29s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           69 / 276, 25%
+Elapsed time:         4.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-523LT6J2.js:100% /85.973Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-5456E3KS.js:100% /1.288Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-55D6PVAF.js:100% /159, 0/s, -
+ *                 161b6d7b/dist/c/c-55OI2GOY.js:100% /124, 0/s, -Transferred:   	  897.810 KiB / 5.573 MiB, 16%, 170.481 KiB/s, ETA 28s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           77 / 276, 28%
+Elapsed time:         5.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-5I4CURWS.js:100% /4.324Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-5MVQJEML.js:100% /1.814Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-5OVXXXRS.js:100% /305, 0/s, -
+ *                 161b6d7b/dist/c/c-5R6VNH5W.js:100% /1.851Ki, 0/s, -Transferred:   	    1.075 MiB / 5.573 MiB, 19%, 170.481 KiB/s, ETA 27s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           85 / 276, 31%
+Elapsed time:         6.0s
+Transferring:
+ *                 161b6d7b/dist/c/c-6D7ELRJV.js:100% /4.734Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-6HKSQEMF.js:100% /24.438Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-6XYYOQQM.js:100% /1.212Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-7263M7B5.js:100% /564, 0/s, -Transferred:   	    1.096 MiB / 5.573 MiB, 20%, 183.498 KiB/s, ETA 24s
+Checks:                 0 / 0, -, Listed 279
+Transferred:           93 / 276, 34%
+Elapsed time:         6.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-7VWLU7QV.js:100% /999, 0/s, -
+ *                 161b6d7b/dist/c/c-7YKUIUKI.js:100% /4.010Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-AAPKPLXE.js:100% /8.104Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-ABW7EOBV.js:100% /2.565Ki, 0/s, -Transferred:   	    1.159 MiB / 5.573 MiB, 21%, 169.534 KiB/s, ETA 26s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          103 / 276, 37%
+Elapsed time:         7.0s
+Transferring:
+ *                 161b6d7b/dist/c/c-B3Y4OMFU.js:100% /8.824Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-B6KZQ77X.js:100% /853, 0/s, -
+ *                 161b6d7b/dist/c/c-B7D2MLVI.js:100% /34.352Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-BCYVF5EP.js:100% /362, 0/s, -Transferred:   	    1.443 MiB / 5.573 MiB, 26%, 169.534 KiB/s, ETA 24s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          111 / 276, 40%
+Elapsed time:         7.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-BWKH3EII.js:100% /250, 0/s, -
+ *                 161b6d7b/dist/c/c-C4JS5BKF.js:100% /3.788Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-CFZIV3NB.js:100% /889, 0/s, -
+ *                 161b6d7b/dist/c/c-CHDCIFSU.js:100% /17.365Ki, 0/s, -Transferred:   	    1.489 MiB / 5.573 MiB, 27%, 169.534 KiB/s, ETA 24s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          119 / 276, 43%
+Elapsed time:         7.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-DDR34UIZ.js:100% /2.451Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-DKSXCS3R.js:100% /1.549Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-DO55JUBA.js:100% /4.572Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-E4A6R3LP.js:100% /5.155Ki, 0/s, -Transferred:   	    1.787 MiB / 5.573 MiB, 32%, 190.636 KiB/s, ETA 20s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          127 / 276, 46%
+Elapsed time:         8.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-EVTP44LI.js:100% /4.273Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-FKJJUMJG.js:100% /24.702Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-FUEGMVA4.js:100% /14.937Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-FW2XAJE7.js:100% /5.810Ki, 0/s, -Transferred:   	    2.079 MiB / 5.573 MiB, 37%, 190.636 KiB/s, ETA 18s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          136 / 276, 49%
+Elapsed time:         8.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-GT43KVHH.js:100% /2.482Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-GY356BTL.js:100% /137.526Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-GYFOGDPJ.js:100% /7.095Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-GYI6PS5K.js:100% /41.873Ki, 0/s, -Transferred:   	    2.169 MiB / 5.573 MiB, 39%, 236.533 KiB/s, ETA 14s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          144 / 276, 52%
+Elapsed time:         9.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-IKBIOQ4N.js:100% /2.604Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-IVVNWGR7.js:100% /8.981Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-JEDQU6KL.js:100% /61.490Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-K3FCHP6S.js:100% /4.654Ki, 0/s, -Transferred:   	    2.261 MiB / 5.573 MiB, 41%, 236.533 KiB/s, ETA 14s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          152 / 276, 55%
+Elapsed time:         9.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-KGCMRMB6.js:100% /5.439Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-KVJFSQ24.js:100% /5.087Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-L66NM6FI.js:100% /4.886Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-LBHDA2QB.js:100% /3.235Ki, 0/s, -Transferred:   	    2.547 MiB / 5.573 MiB, 46%, 231.565 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          160 / 276, 58%
+Elapsed time:        10.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-LSR7PHIR.js:100% /702, 0/s, -
+ *                 161b6d7b/dist/c/c-LTPWE47W.js:100% /740, 0/s, -
+ *                 161b6d7b/dist/c/c-LUNDVHNG.js:100% /1.221Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-LWUOBIOU.js:100% /260.852Ki, 0/s, -Transferred:   	    2.634 MiB / 5.573 MiB, 47%, 231.565 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          168 / 276, 61%
+Elapsed time:        10.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-M6MQLU3P.js:100% /10.358Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-M7YEZOI4.js:100% /382, 0/s, -
+ *                 161b6d7b/dist/c/c-MA3Q4T4B.js:100% /14.312Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-MD6X7SFY.js:100% /48.736Ki, 0/s, -Transferred:   	    2.717 MiB / 5.573 MiB, 49%, 245.245 KiB/s, ETA 11s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          176 / 276, 64%
+Elapsed time:        11.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-MYUCWZF7.js:100% /2.169Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-MZP4GFPT.js:100% /6.042Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-N2K5R2ZO.js:100% /8.921Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-NIFUTBJL.js:100% /224, 0/s, -Transferred:   	    3.131 MiB / 5.573 MiB, 56%, 245.245 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          184 / 276, 67%
+Elapsed time:        11.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-O236GQ4F.js:100% /6.373Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-O6SQN2QX.js:100% /59.135Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-OB4Q6DED.js:100% /29.801Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-ODPQO4LZ.js:100% /314.132Ki, 0/s, -Transferred:   	    3.521 MiB / 5.573 MiB, 63%, 267.183 KiB/s, ETA 7s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          193 / 276, 70%
+Elapsed time:        12.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-PAO6THGM.js:100% /33.661Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-PB7HEERC.js:100% /6.270Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-PHBQDWGJ.js:100% /156.042Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-PQDFJE6H.js:100% /511, 0/s, -Transferred:   	    3.756 MiB / 5.573 MiB, 67%, 267.183 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          201 / 276, 73%
+Elapsed time:        12.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-Q5DMCYGR.js:100% /1.083Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-QFZOZ6BF.js:100% /3.491Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-QHO3ABEH.js:100% /5.618Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-QQFPOC46.js:100% /188.429Ki, 0/s, -Transferred:   	    4.040 MiB / 5.573 MiB, 72%, 295.834 KiB/s, ETA 5s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          211 / 276, 76%
+Elapsed time:        13.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-RVZKWEJB.js:100% /6.371Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-RY7GKHLZ.js:100% /3.104Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-SDZISLJO.js:100% /1.823Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-SFMIAJRG.js: 47% /470.747Ki, 0/s, -Transferred:   	    4.581 MiB / 5.573 MiB, 82%, 295.834 KiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          218 / 276, 79%
+Elapsed time:        13.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-ST2D37D4.js:100% /20.029Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-SV2DMA5I.js:100% /601, 0/s, -
+ *                 161b6d7b/dist/c/c-T5E3IHDV.js:100% /1.138Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-T77IFS2R.js:100% /547, 0/s, -Transferred:   	    4.629 MiB / 5.573 MiB, 83%, 335.081 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          226 / 276, 82%
+Elapsed time:        14.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-TVYOLKFJ.js:100% /7.392Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-TYA7JAQA.js:100% /118, 0/s, -
+ *                 161b6d7b/dist/c/c-TZEYCYR4.js:100% /1.340Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-U4IKS3MU.js:100% /162, 0/s, -Transferred:   	    4.854 MiB / 5.573 MiB, 87%, 335.081 KiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          234 / 276, 85%
+Elapsed time:        14.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-UW4FTZSO.js:100% /5.946Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-V4OYQX7C.js:100% /1.456Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-VIOA7XMC.js:100% /54.447Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-VM6DDZOJ.js:100% /1.044Ki, 0/s, -Transferred:   	    5.085 MiB / 5.573 MiB, 91%, 331.374 KiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          244 / 276, 88%
+Elapsed time:        15.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-W72EQAYF.js:100% /17.062Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-WIMU32CE.js:100% /58.485Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-WMGF7Z4R.js:100% /2.706Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-WRS6JHEJ.js:100% /4.099Ki, 0/s, -Transferred:   	    5.283 MiB / 5.573 MiB, 95%, 331.374 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          252 / 276, 91%
+Elapsed time:        15.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-X75CELFM.js:100% /25.790Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-XE6GZWQQ.js:100% /183, 0/s, -
+ *                 161b6d7b/dist/c/c-XEMWUKX7.js:100% /1.256Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-XLMN7GH5.js:100% /95.022Ki, 0/s, -Transferred:   	    5.301 MiB / 5.573 MiB, 95%, 338.089 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          260 / 276, 94%
+Elapsed time:        16.4s
+Transferring:
+ *                 161b6d7b/dist/c/c-XZIBDDME.js:100% /1.157Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-XZY3E4PH.js:100% /336, 0/s, -
+ *                 161b6d7b/dist/c/c-Y7VXRMGY.js:100% /2.835Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-YFDEDCKL.js:100% /3.356Ki, 0/s, -Transferred:   	    5.528 MiB / 5.573 MiB, 99%, 338.089 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          268 / 276, 97%
+Elapsed time:        16.9s
+Transferring:
+ *                 161b6d7b/dist/c/c-Z3VYHCCO.js:100% /198.821Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-Z3WA3VKH.js:100% /14.793Ki, 0/s, -
+ *                 161b6d7b/dist/c/c-Z5H3IIRV.js:100% /144, 0/s, -
+ *                 161b6d7b/dist/c/c-ZDYAHT6H.js:100% /637, 0/s, -Transferred:   	    5.573 MiB / 5.573 MiB, 100%, 332.641 KiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 279
+Transferred:          276 / 276, 100%
+Elapsed time:        17.4s
+[2026-05-01 11:23:18]    ✓ Modules загружены
+[2026-05-01 11:23:18] 3. Загрузка fonts...
+Transferred:   	  303.953 KiB / 14.444 MiB, 2%, 0 B/s, ETA -
+Checks:                 0 / 0, -, Listed 226
+Transferred:            3 / 205, 1%
+Elapsed time:         0.5s
+Transferring:
+ * hosted-fonts/webtype-f…airDisplay-Black.woff2:100% /63.043Ki, 0/s, -
+ * hosted-fonts/webtype-f…fairDisplay-Bold.woff2:100% /65.707Ki, 0/s, -
+ * hosted-fonts/webtype-f…irDisplay-Medium.woff2:100% /65.203Ki, 0/s, -
+ * hosted-fonts/webtype-f…/Montserrat-Bold.woff2:100% /62.297Ki, 0/s, -Transferred:   	  625.258 KiB / 14.444 MiB, 4%, 625.234 KiB/s, ETA 22s
+Checks:                 0 / 0, -, Listed 226
+Transferred:            9 / 205, 4%
+Elapsed time:         1.0s
+Transferring:
+ * hosted-fonts/webtype-f…ntserrat-Regular.woff2:100% /61.293Ki, 0/s, -
+ * hosted-fonts/webtype-f…Pro/Gelasio-Bold.woff2:100% /41.641Ki, 0/s, -
+ * hosted-fonts/webtype-f…lasio-BoldItalic.woff2:100% /45.020Ki, 0/s, -
+ * hosted-fonts/webtype-f…o/Gelasio-Italic.woff2:100% /44.836Ki, 0/s, -Transferred:   	  936.430 KiB / 14.444 MiB, 6%, 625.234 KiB/s, ETA 22s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           17 / 205, 8%
+Elapsed time:         1.5s
+Transferring:
+ * hosted-fonts/webtype-f…ans/Cabin-Italic.woff2:100% /27.273Ki, 0/s, -
+ * hosted-fonts/webtype-f…ns/Cabin-Regular.woff2:100% /27.570Ki, 0/s, -
+ * hosted-fonts/webtype-f…ern RE/Lora-Bold.woff2:100% /47.574Ki, 0/s, -
+ * hosted-fonts/webtype-f…/Lora-BoldItalic.woff2:100% /50.457Ki, 0/s, -Transferred:   	    1.178 MiB / 14.444 MiB, 8%, 603.312 KiB/s, ETA 22s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           25 / 205, 12%
+Elapsed time:         2.0s
+Transferring:
+ * hosted-fonts/webtype-f…eSansMono-Medium.woff2:100% /21.457Ki, 0/s, -
+ * hosted-fonts/webtype-f…c/NewsCycle-Bold.woff2:100% /23.719Ki, 0/s, -
+ * hosted-fonts/webtype-f…ewsCycle-Regular.woff2:100% /59.293Ki, 0/s, -
+ * hosted-fonts/webtype-f…JosefinSans-Bold.woff2:100% /21.461Ki, 0/s, -Transferred:   	    1.799 MiB / 14.444 MiB, 12%, 603.312 KiB/s, ETA 21s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           34 / 205, 17%
+Elapsed time:         2.4s
+Transferring:
+ * hosted-fonts/webtype-f…SansDisplay-Bold.woff2:100% /128.414Ki, 0/s, -
+ * hosted-fonts/webtype-f…splay-BoldItalic.woff2:100% /133.309Ki, 0/s, -
+ * hosted-fonts/webtype-f…nsDisplay-Italic.woff2:100% /133.375Ki, 0/s, -
+ * hosted-fonts/webtype-f…sDisplay-Regular.woff2:100% /127.641Ki, 0/s, -Transferred:   	    2.164 MiB / 14.444 MiB, 15%, 738.701 KiB/s, ETA 17s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           41 / 205, 20%
+Elapsed time:         3.0s
+Transferring:
+ * hosted-fonts/webtype-f…son/Lora-Regular.woff2:100% /47.359Ki, 0/s, -
+ * hosted-fonts/webtype-f…ri/OpenSans-Bold.woff2:100% /56.980Ki, 0/s, -
+ * hosted-fonts/webtype-f…/OpenSans-Italic.woff2:100% /61.934Ki, 0/s, -
+ * hosted-fonts/webtype-f…OpenSans-Regular.woff2:100% /58.953Ki, 0/s, -Transferred:   	    2.698 MiB / 14.444 MiB, 19%, 738.701 KiB/s, ETA 16s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           50 / 205, 24%
+Elapsed time:         3.4s
+Transferring:
+ * hosted-fonts/webtype-f…RE/OpenSans-Bold.woff2:100% /56.980Ki, 0/s, -
+ * hosted-fonts/webtype-f…nSans-BoldItalic.woff2:100% /59.395Ki, 0/s, -
+ * hosted-fonts/webtype-f…/OpenSans-Italic.woff2:100% /61.934Ki, 0/s, -
+ * hosted-fonts/webtype-f…OpenSans-Regular.woff2:100% /58.953Ki, 0/s, -Transferred:   	    3.162 MiB / 14.444 MiB, 22%, 809.342 KiB/s, ETA 14s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           59 / 205, 29%
+Elapsed time:         4.0s
+Transferring:
+ * hosted-fonts/webtype-f…splay-BoldItalic.woff2:100% /62.840Ki, 0/s, -
+ * hosted-fonts/webtype-f…irDisplay-Medium.woff2:100% /65.203Ki, 0/s, -
+ * hosted-fonts/webtype-f…lay-MediumItalic.woff2:100% /62.328Ki, 0/s, -
+ * hosted-fonts/webtype-f…esk/Rubik-Medium.woff2:100% /61.391Ki, 0/s, -Transferred:   	    3.523 MiB / 14.444 MiB, 24%, 809.342 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           67 / 205, 33%
+Elapsed time:         4.4s
+Transferring:
+ * hosted-fonts/typetoday/AustinCy-Bold-Web.woff:100% /50.330Ki, 0/s, -
+ * hosted-fonts/typetoday/AustinCy-Fat-Web.woff2:100% /34.828Ki, 0/s, -
+ *  hosted-fonts/typetoday/AustinCy-Fat-Web.woff:100% /45.318Ki, 0/s, -
+ * hosted-fonts/typetoday…tinCy-Italic-Web.woff2:100% /39.520Ki, 0/s, -Transferred:   	    3.872 MiB / 14.444 MiB, 27%, 809.342 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           75 / 205, 37%
+Elapsed time:         4.9s
+Transferring:
+ * hosted-fonts/typetoday…ustinCy-Roman-Web.woff:100% /43.896Ki, 0/s, -
+ * hosted-fonts/typetoday…ibold Italic-Web.woff2:100% /44.121Ki, 0/s, -
+ * hosted-fonts/typetoday…mibold Italic-Web.woff:100% /56.189Ki, 0/s, -
+ * hosted-fonts/typetoday…nCy-Semibold-Web.woff2:100% /38.090Ki, 0/s, -Transferred:   	    4.330 MiB / 14.444 MiB, 30%, 793.060 KiB/s, ETA 13s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           83 / 205, 40%
+Elapsed time:         5.5s
+Transferring:
+ * hosted-fonts/typetoday…y-UltraItalic-Web.woff:100% /56.486Ki, 0/s, -
+ * hosted-fonts/typetoday…aFlodaCy-Fat-Web.woff2:100% /82.457Ki, 0/s, -
+ * hosted-fonts/typetoday…laFlodaCy-Fat-Web.woff:100% /112.817Ki, 0/s, -
+ * hosted-fonts/typetoday…CondCy-Super-Web.woff2:100% /40.094Ki, 0/s, -Transferred:   	    4.722 MiB / 14.444 MiB, 33%, 805.917 KiB/s, ETA 12s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           91 / 205, 44%
+Elapsed time:         6.0s
+Transferring:
+ * hosted-fonts/typetoday…kWideCy-Super-Web.woff:100% /56.212Ki, 0/s, -
+ * hosted-fonts/typetoday…CondCy-Super-Web.woff2:100% /43.148Ki, 0/s, -
+ * hosted-fonts/typetoday…XCondCy-Super-Web.woff:100% /58.786Ki, 0/s, -
+ * hosted-fonts/typetoday…SansLC-Black-Web.woff2:100% /41.883Ki, 0/s, -Transferred:   	    5.123 MiB / 14.444 MiB, 35%, 805.917 KiB/s, ETA 11s
+Checks:                 0 / 0, -, Listed 226
+Transferred:           99 / 205, 48%
+Elapsed time:         6.5s
+Transferring:
+ * hosted-fonts/typetoday…LC-BoldItalic-Web.woff:100% /65.189Ki, 0/s, -
+ * hosted-fonts/typetoday…SansLC-Heavy-Web.woff2:100% /43.410Ki, 0/s, -
+ * hosted-fonts/typetoday…oSansLC-Heavy-Web.woff:100% /59.471Ki, 0/s, -
+ * hosted-fonts/typetoday…ansLC-Medium-Web.woff2:100% /41.578Ki, 0/s, -Transferred:   	    5.533 MiB / 14.444 MiB, 38%, 805.917 KiB/s, ETA 11s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          107 / 205, 52%
+Elapsed time:         7.0s
+Transferring:
+ * hosted-fonts/typetoday…RegularItalic-Web.woff:100% /67.857Ki, 0/s, -
+ * hosted-fonts/typetoday…oSansLC-Thin-Web.woff2:100% /41.500Ki, 0/s, -
+ * hosted-fonts/typetoday…ioSansLC-Thin-Web.woff:100% /59.400Ki, 0/s, -
+ * hosted-fonts/typetoday…phikLC-Black-Web.woff2:100% /46.410Ki, 0/s, -Transferred:   	    5.965 MiB / 14.444 MiB, 41%, 809.391 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          115 / 205, 56%
+Elapsed time:         7.5s
+Transferring:
+ * hosted-fonts/typetoday…LC-BoldItalic-Web.woff:100% /67.297Ki, 0/s, -
+ * hosted-fonts/typetoday…C-ExtraLight-Web.woff2:100% /45.246Ki, 0/s, -
+ * hosted-fonts/typetoday…LC-ExtraLight-Web.woff:100% /63.160Ki, 0/s, -
+ * hosted-fonts/typetoday…phikLC-Light-Web.woff2:100% /43.953Ki, 0/s, -Transferred:   	    6.386 MiB / 14.444 MiB, 44%, 817.374 KiB/s, ETA 10s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          123 / 205, 60%
+Elapsed time:         8.0s
+Transferring:
+ * hosted-fonts/typetoday…phikLC-Medium-Web.woff:100% /61.715Ki, 0/s, -
+ * hosted-fonts/typetoday…ikLC-Regular-Web.woff2:100% /42.430Ki, 0/s, -
+ * hosted-fonts/typetoday…hikLC-Regular-Web.woff:100% /59.785Ki, 0/s, -
+ * hosted-fonts/typetoday…egularItalic-Web.woff2:100% /45.176Ki, 0/s, -Transferred:   	    7.041 MiB / 14.444 MiB, 49%, 817.374 KiB/s, ETA 9s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          131 / 205, 64%
+Elapsed time:         8.5s
+Transferring:
+ * hosted-fonts/typetoday…raphikLC-Thin-Web.woff:100% /59.023Ki, 0/s, -
+ * hosted-fonts/typetoday…tivePro-Web-Bold.woff2:100% /114.152Ki, 0/s, -
+ * hosted-fonts/typetoday…ativePro-Web-Bold.woff:100% /175.457Ki, 0/s, -
+ * hosted-fonts/typetoday…ePro-Web-Regular.woff2:100% /107.848Ki, 0/s, -Transferred:   	    7.835 MiB / 14.444 MiB, 54%, 817.374 KiB/s, ETA 8s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          139 / 205, 68%
+Elapsed time:         9.0s
+Transferring:
+ *  hosted-fonts/typetoday/Kazimir-Web-Bold.woff:100% /109.547Ki, 0/s, -
+ * hosted-fonts/typetoday…zimir-Web-Medium.woff2:100% /81.168Ki, 0/s, -
+ * hosted-fonts/typetoday…azimir-Web-Medium.woff:100% /110.305Ki, 0/s, -
+ * hosted-fonts/typetoday…imir-Web-Regular.woff2:100% /79.641Ki, 0/s, -Transferred:   	    9.001 MiB / 14.444 MiB, 62%, 891.499 KiB/s, ETA 6s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          145 / 205, 71%
+Elapsed time:         9.5s
+Transferring:
+ * hosted-fonts/typetoday…imirText-Bold_web.woff:100% /286.135Ki, 0/s, -
+ * hosted-fonts/typetoday…mirText-Book_web.woff2:100% /173.508Ki, 0/s, -
+ * hosted-fonts/typetoday…imirText-Book_web.woff:100% /281.143Ki, 0/s, -
+ * hosted-fonts/typetoday…ext-Hairline_web.woff2:100% /166.070Ki, 0/s, -Transferred:   	   10.396 MiB / 14.444 MiB, 72%, 1.040 MiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          153 / 205, 75%
+Elapsed time:        10.0s
+Transferring:
+ * hosted-fonts/typetoday…arleneCy-Web-Bold.woff:100% /212.164Ki, 0/s, -
+ * hosted-fonts/typetoday…leneCy-Web-Light.woff2:100% /123.625Ki, 0/s, -
+ * hosted-fonts/typetoday…rleneCy-Web-Light.woff:100% /207.492Ki, 0/s, -
+ * hosted-fonts/typetoday…_Bodoni-Bold-Web.woff2:100% /36.441Ki, 0/s, -Transferred:   	   10.973 MiB / 14.444 MiB, 76%, 1.040 MiB/s, ETA 3s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          161 / 205, 79%
+Elapsed time:        10.4s
+Transferring:
+ * hosted-fonts/typetoday…odoni-Regular-Web.woff:100% /51.013Ki, 0/s, -
+ * hosted-fonts/typetoday/Navigo-Black-Web.woff2:100% /104.875Ki, 0/s, -
+ *  hosted-fonts/typetoday/Navigo-Black-Web.woff:100% /161.925Ki, 0/s, -
+ *  hosted-fonts/typetoday/Navigo-Bold-Web.woff2:100% /97.273Ki, 0/s, -Transferred:   	   11.860 MiB / 14.444 MiB, 82%, 1.040 MiB/s, ETA 2s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          169 / 205, 82%
+Elapsed time:        10.9s
+Transferring:
+ * hosted-fonts/typetoday…avigo-Regular-Web.woff:100% /145.636Ki, 0/s, -
+ *  hosted-fonts/typetoday/Navigo-Thin-Web.woff2:100% /92.961Ki, 0/s, -
+ *   hosted-fonts/typetoday/Navigo-Thin-Web.woff:100% /145.429Ki, 0/s, -
+ *  hosted-fonts/typetoday/Nekst-Black-Web.woff2:100% /38.121Ki, 0/s, -Transferred:   	   12.539 MiB / 14.444 MiB, 87%, 1.078 MiB/s, ETA 1s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          179 / 205, 87%
+Elapsed time:        11.4s
+Transferring:
+ *    hosted-fonts/typetoday/Nekst-Thin-Web.woff:100% /39.039Ki, 0/s, -
+ * hosted-fonts/typetoday…xt_Pro-Black-Web.woff2:100% /187.676Ki, 0/s, -
+ * hosted-fonts/typetoday…ext_Pro-Black-Web.woff: 35% /318.715Ki, 0/s, -
+ * hosted-fonts/typetoday…_Pro-Regular-Web.woff2: 61% /182.648Ki, 0/s, -Transferred:   	   13.385 MiB / 14.444 MiB, 93%, 1.078 MiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          185 / 205, 90%
+Elapsed time:        11.9s
+Transferring:
+ * hosted-fonts/typetoday…_Grotesk-Bold-Web.woff:100% /64.043Ki, 0/s, -
+ * hosted-fonts/typetoday…k-ExtraLight-Web.woff2:100% /48.645Ki, 0/s, -
+ * hosted-fonts/typetoday…sk-ExtraLight-Web.woff:100% /60.527Ki, 0/s, -
+ * hosted-fonts/typetoday…rotesk-Light-Web.woff2:100% /51.629Ki, 0/s, -Transferred:   	   14.017 MiB / 14.444 MiB, 97%, 1.115 MiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          193 / 205, 94%
+Elapsed time:        12.5s
+Transferring:
+ * hosted-fonts/typetoday…-SauberScript-Web.woff:100% /145.902Ki, 0/s, -
+ * hosted-fonts/typetoday…tra-Variable-Web.woff2:100% /85.926Ki, 0/s, -
+ * hosted-fonts/typetoday…ratosLC-Web-Bold.woff2:100% /60.898Ki, 0/s, -
+ * hosted-fonts/typetoday…tratosLC-Web-Bold.woff:100% /55.184Ki, 0/s, -Transferred:   	   14.444 MiB / 14.444 MiB, 100%, 1.111 MiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          202 / 205, 99%
+Elapsed time:        13.0s
+Transferring:
+ * hosted-fonts/typetoday…atosLC-Web-Medium.woff:100% /51.230Ki, 0/s, -
+ * hosted-fonts/typetoday…osLC-Web-Regular.woff2:100% /55.980Ki, 0/s, -
+ * hosted-fonts/typetoday…tosLC-Web-Regular.woff:100% /51.996Ki, 0/s, -Transferred:   	   14.444 MiB / 14.444 MiB, 100%, 1.111 MiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 226
+Transferred:          205 / 205, 100%
+Elapsed time:        13.0s
+[2026-05-01 11:23:32]    ✓ Fonts загружены
+[2026-05-01 11:23:32] === Готово ===

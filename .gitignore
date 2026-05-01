@@ -8,6 +8,7 @@ s3_upload/
 selectel-*.md
 nic-ru-*.md
 originals/
+o/
 thumbs/
 .certbot/
 deploy.log

@@ -9,11 +9,13 @@
 ────────               ──────────                 ────────
 HTML + api/  ──git──▶  репозиторий  ──workflow──▶  CDN → S3 (странички)
 
-originals/   ──────────── deploy.sh ────────────▶  S3 (картинки)
+originals/   ──────────── deploy.sh ────────────▶  S3 (картинки → папка o/)
+modules/     ──────────── deploy.sh ────────────▶  S3 (JS вьювер)
+fonts/       ──────────── deploy.sh ────────────▶  S3 (шрифты)
 ```
 
 - **HTML + api/** — коммитятся и пушатся в GitVerse. Workflow автоматически заливает в корень S3-бакета.
-- **originals/ и thumbs/** — НЕ коммитятся. Загружаются на S3 вручную через `deploy.sh`.
+- **o/, modules/, fonts/** — НЕ коммитятся. Загружаются на S3 вручную через `deploy.sh`.
 
 ## Как деплоить
 
@@ -52,8 +54,11 @@ certbot certonly --manual --preferred-challenges dns -d "*.glukhova-dasha.com" -
 .
 ├── *.html              # Страницы сайта (коммитятся)
 ├── api/                # JSON-виджеты (коммитятся)
-├── originals/          # Исходные изображения (НЕ коммитятся)
-├── deploy.sh           # Ручной деплой картинок на S3
+├── originals/          # Исходные изображения (НЕ коммитятся, деплой в папку o/)
+├── o/                  # Изображения на S3 (НЕ коммитятся)
+├── modules/            # JS вьювер Readymag (НЕ коммитятся)
+├── fonts/              # Шрифты (НЕ коммитятся)
+├── deploy.sh           # Ручной деплой o/ + modules/ + fonts/ на S3
 ├── .gitverse/          # GitVerse CI/CD workflow
 └── .certbot/           # Сертификаты Let's Encrypt (локально)
 ```
