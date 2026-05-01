@@ -1728,3 +1728,187 @@ Transferred:          205 / 205, 100%
 Elapsed time:        13.0s
 [2026-05-01 11:23:32]    ✓ Fonts загружены
 [2026-05-01 11:23:32] === Готово ===
+[2026-05-01 12:01:52] === Деплой КАРТИНОК на S3 ===
+[2026-05-01 12:01:52] 1. Загрузка картинок (o/)...
+[2026-05-01 12:01:52]    → папка o не найдена
+[2026-05-01 12:01:52] 2. Загрузка modules...
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 2 / 51, 4%, Listed 333
+Elapsed time:         0.5s
+Checking:
+ *                161b6d7b/dist/arc-75MB3ZVP.png: checking
+ *                 161b6d7b/dist/bg-JAKY5MEK.jpg: checking
+ *             161b6d7b/dist/arc@2x-PI3S4UJ4.png: checking
+ *           161b6d7b/dist/bg-phone-LJ4UEOOJ.jpg: checking
+ *           161b6d7b/dist/browsers-AONRMDST.png: checking
+ *        161b6d7b/dist/browsers@2x-S763L4NE.png: checking
+ *            161b6d7b/dist/confirm-I2BDZZ6H.png: checking
+ *         161b6d7b/dist/confirm@2x-2ENCTW4F.png: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                28 / 276, 10%, Listed 558
+Elapsed time:         1.0s
+Checking:
+ *          161b6d7b/dist/made-with-ETKDTPC5.svg: checking
+ *              161b6d7b/dist/minus-MJQWCJK6.png: checking
+ *           161b6d7b/dist/minus@2x-R45N2AR2.png: checking
+ *        161b6d7b/dist/phone-close-LD7E6E2B.png: checking
+ *     161b6d7b/dist/phone-close@2x-2VWOP2WZ.png: checking
+ *        161b6d7b/dist/pic-desktop-5FRVBMRI.png: checking
+ *     161b6d7b/dist/pic-desktop@2x-F7YNMAA5.png: checking
+ *        161b6d7b/dist/pic-upgrade-MXU353H5.svg: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                60 / 276, 22%, Listed 558
+Elapsed time:         1.5s
+Checking:
+ *                 161b6d7b/dist/c/c-3F7L4UWK.js: checking
+ *                 161b6d7b/dist/c/c-3WVYKZWE.js: checking
+ *                 161b6d7b/dist/c/c-3Z5HJETW.js: checking
+ *                 161b6d7b/dist/c/c-4BWM6XDV.js: checking
+ *                 161b6d7b/dist/c/c-4CG6325L.js: checking
+ *                 161b6d7b/dist/c/c-4CJGMS4U.js: checking
+ *                 161b6d7b/dist/c/c-4IUTD2JI.js: checking
+ *                 161b6d7b/dist/c/c-4PL46RZV.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                92 / 276, 33%, Listed 558
+Elapsed time:         2.0s
+Checking:
+ *                 161b6d7b/dist/c/c-7BOLTC4Q.js: checking
+ *                 161b6d7b/dist/c/c-7VWLU7QV.js: checking
+ *                 161b6d7b/dist/c/c-7YKUIUKI.js: checking
+ *                 161b6d7b/dist/c/c-AAPKPLXE.js: checking
+ *                 161b6d7b/dist/c/c-ABW7EOBV.js: checking
+ *                 161b6d7b/dist/c/c-AGCXAM53.js: checking
+ *                 161b6d7b/dist/c/c-AIK6CUKJ.js: checking
+ *                 161b6d7b/dist/c/c-AMSQUHYJ.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               126 / 276, 46%, Listed 558
+Elapsed time:         2.4s
+Checking:
+ *                 161b6d7b/dist/c/c-EMRNG7J3.js: checking
+ *                 161b6d7b/dist/c/c-EVTP44LI.js: checking
+ *                 161b6d7b/dist/c/c-FKJJUMJG.js: checking
+ *                 161b6d7b/dist/c/c-FUEGMVA4.js: checking
+ *                 161b6d7b/dist/c/c-FW2XAJE7.js: checking
+ *                 161b6d7b/dist/c/c-G33A56PE.js: checking
+ *                 161b6d7b/dist/c/c-G66WBIYC.js: checking
+ *                 161b6d7b/dist/c/c-G7GAF5OV.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               159 / 276, 58%, Listed 558
+Elapsed time:         3.0s
+Checking:
+ *                 161b6d7b/dist/c/c-LRGSKR5O.js: checking
+ *                 161b6d7b/dist/c/c-LSR7PHIR.js: checking
+ *                 161b6d7b/dist/c/c-LTPWE47W.js: checking
+ *                 161b6d7b/dist/c/c-LUNDVHNG.js: checking
+ *                 161b6d7b/dist/c/c-LWUOBIOU.js: checking
+ *                 161b6d7b/dist/c/c-M27VY3Y5.js: checking
+ *                 161b6d7b/dist/c/c-M3G6FLCP.js: checking
+ *                 161b6d7b/dist/c/c-M3Q3RZRV.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               191 / 276, 69%, Listed 558
+Elapsed time:         3.4s
+Checking:
+ *                 161b6d7b/dist/c/c-P4TBN3Q3.js: checking
+ *                 161b6d7b/dist/c/c-P5EEE4C5.js: checking
+ *                 161b6d7b/dist/c/c-PAO6THGM.js: checking
+ *                 161b6d7b/dist/c/c-PB7HEERC.js: checking
+ *                 161b6d7b/dist/c/c-PHBQDWGJ.js: checking
+ *                 161b6d7b/dist/c/c-PQDFJE6H.js: checking
+ *                 161b6d7b/dist/c/c-PQFUB7XA.js: checking
+ *                 161b6d7b/dist/c/c-PWLCDTHW.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               228 / 276, 83%, Listed 558
+Elapsed time:         3.9s
+Checking:
+ *                 161b6d7b/dist/c/c-TZEYCYR4.js: checking
+ *                 161b6d7b/dist/c/c-U4IKS3MU.js: checking
+ *                 161b6d7b/dist/c/c-UAOVLJZI.js: checking
+ *                 161b6d7b/dist/c/c-UCMJY3EN.js: checking
+ *                 161b6d7b/dist/c/c-UITVZTGB.js: checking
+ *                 161b6d7b/dist/c/c-UTWW5ZUY.js: checking
+ *                 161b6d7b/dist/c/c-UW4FTZSO.js: checking
+ *                 161b6d7b/dist/c/c-V4OYQX7C.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               260 / 276, 94%, Listed 558
+Elapsed time:         4.4s
+Checking:
+ *                 161b6d7b/dist/c/c-XZIBDDME.js: checking
+ *                 161b6d7b/dist/c/c-XZY3E4PH.js: checking
+ *                 161b6d7b/dist/c/c-Y7VXRMGY.js: checking
+ *                 161b6d7b/dist/c/c-YFDEDCKL.js: checking
+ *                 161b6d7b/dist/c/c-YN5SIVQM.js: checking
+ *                 161b6d7b/dist/c/c-YNK4IGMR.js: checking
+ *                 161b6d7b/dist/c/c-YPBQ6LOA.js: checking
+ *                 161b6d7b/dist/c/c-YPLUIJ2Y.js: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               276 / 276, 100%, Listed 558
+Elapsed time:         4.7s
+[2026-05-01 12:01:58]    ✓ Modules загружены
+[2026-05-01 12:01:58] 3. Загрузка fonts...
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                 3 / 151, 2%, Listed 372
+Elapsed time:         0.4s
+Checking:
+ * hosted-fonts/typetoday…-Bold Italic-Web.woff2: checking
+ * hosted-fonts/typetoday…y-Bold Italic-Web.woff: checking
+ * hosted-fonts/typetoday…ustinCy-Bold-Web.woff2: checking
+ * hosted-fonts/typetoday/AustinCy-Bold-Web.woff: checking
+ * hosted-fonts/typetoday/AustinCy-Fat-Web.woff2: checking
+ *  hosted-fonts/typetoday/AustinCy-Fat-Web.woff: checking
+ * hosted-fonts/typetoday…tinCy-Italic-Web.woff2: checking
+ * hosted-fonts/typetoday…stinCy-Italic-Web.woff: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                35 / 205, 17%, Listed 452
+Elapsed time:         0.9s
+Checking:
+ * hosted-fonts/typetoday…oSansLC-Bold-Web.woff2: checking
+ * hosted-fonts/typetoday…ioSansLC-Bold-Web.woff: checking
+ * hosted-fonts/typetoday…C-BoldItalic-Web.woff2: checking
+ * hosted-fonts/typetoday…LC-BoldItalic-Web.woff: checking
+ * hosted-fonts/typetoday…SansLC-Heavy-Web.woff2: checking
+ * hosted-fonts/typetoday…oSansLC-Heavy-Web.woff: checking
+ * hosted-fonts/typetoday…ansLC-Medium-Web.woff2: checking
+ * hosted-fonts/typetoday…SansLC-Medium-Web.woff: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:                67 / 205, 33%, Listed 452
+Elapsed time:         1.4s
+Checking:
+ * hosted-fonts/typetoday…phikLC-Super-Web.woff2: checking
+ * hosted-fonts/typetoday…aphikLC-Super-Web.woff: checking
+ * hosted-fonts/typetoday…aphikLC-Thin-Web.woff2: checking
+ * hosted-fonts/typetoday…raphikLC-Thin-Web.woff: checking
+ * hosted-fonts/typetoday…tivePro-Web-Bold.woff2: checking
+ * hosted-fonts/typetoday…ativePro-Web-Bold.woff: checking
+ * hosted-fonts/typetoday…ePro-Web-Regular.woff2: checking
+ * hosted-fonts/typetoday…vePro-Web-Regular.woff: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               104 / 205, 51%, Listed 452
+Elapsed time:         1.9s
+Checking:
+ *   hosted-fonts/typetoday/Navigo-Bold-Web.woff: checking
+ * hosted-fonts/typetoday/Navigo-Light-Web.woff2: checking
+ *  hosted-fonts/typetoday/Navigo-Light-Web.woff: checking
+ * hosted-fonts/typetoday…vigo-Regular-Web.woff2: checking
+ * hosted-fonts/typetoday…avigo-Regular-Web.woff: checking
+ *  hosted-fonts/typetoday/Navigo-Thin-Web.woff2: checking
+ *   hosted-fonts/typetoday/Navigo-Thin-Web.woff: checking
+ *  hosted-fonts/typetoday/Nekst-Black-Web.woff2: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               138 / 205, 67%, Listed 452
+Elapsed time:         2.4s
+Checking:
+ * hosted-fonts/typetoday…atosLC-Web-Light.woff2: checking
+ * hosted-fonts/typetoday…ratosLC-Web-Light.woff: checking
+ * hosted-fonts/typetoday…tosLC-Web-Medium.woff2: checking
+ * hosted-fonts/typetoday…atosLC-Web-Medium.woff: checking
+ * hosted-fonts/typetoday…osLC-Web-Regular.woff2: checking
+ * hosted-fonts/typetoday…tosLC-Web-Regular.woff: checking
+ * hosted-fonts/webtype-f…airDisplay-Black.woff2: checking
+ * hosted-fonts/webtype-f…fairDisplay-Bold.woff2: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               171 / 205, 83%, Listed 452
+Elapsed time:         2.9s
+Checking:
+ * hosted-fonts/webtype-f…/Gelasio-Regular.woff2: checking
+ * hosted-fonts/webtype-f…Gelasio-SemiBold.woff2: checking
+ * hosted-fonts/webtype-f…o-SemiBoldItalic.woff2: checking
+ * hosted-fonts/webtype-f…c/NewsCycle-Bold.woff2: checking
+ * hosted-fonts/webtype-f…ewsCycle-Regular.woff2: checking
+ * hosted-fonts/webtype-f… Sans/Cabin-Bold.woff2: checking
+ * hosted-fonts/webtype-f…ans/Cabin-Italic.woff2: checking
+ * hosted-fonts/webtype-f…ns/Cabin-Regular.woff2: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               203 / 205, 99%, Listed 452
+Elapsed time:         3.4s
+Checking:
+ * hosted-fonts/webtype-f…elefon/Jost-Bold.woff2: checking
+ * hosted-fonts/webtype-f…fon/Jost-Regular.woff2: checkingTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Checks:               205 / 205, 100%, Listed 452
+Elapsed time:         3.5s
+[2026-05-01 12:02:02]    ✓ Fonts загружены
+[2026-05-01 12:02:02] === Готово ===
