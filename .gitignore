@@ -7,3 +7,7 @@ glukhova-dasha/
 s3_upload/
 selectel-*.md
 nic-ru-*.md
+originals/
+thumbs/
+.certbot/
+deploy.log

@@ -9,8 +9,8 @@ BUCKET = sys.argv[1].rstrip("/") if len(sys.argv) > 1 else ""
 with open("api/widgets-combined.json") as f:
     raw = f.read()
 
-raw = raw.replace('"i-p.rmcdn.net/', f'"{BUCKET}/glukhova-dasha/originals/')
-raw = raw.replace("https://c-p.rmcdn.net/", f"{BUCKET}/glukhova-dasha/originals/")
+raw = raw.replace('"i-p.rmcdn.net/', f'"{BUCKET}/originals/')
+raw = raw.replace("https://c-p.rmcdn.net/", f"{BUCKET}/originals/")
 
 with open("api/widgets-combined.json", "w") as f:
     f.write(raw)
@@ -54,4 +54,4 @@ for fname in sorted(glob.glob("*.html")):
     content = content.replace("</body>", interceptor + "\n</body>")
     open(fname, "w").write(content)
 
-print(f"URLs updated to: {BUCKET}/glukhova-dasha/originals/")
+print(f"URLs updated to: {BUCKET}/originals/")
